@@ -1,0 +1,28 @@
+name: Filled Bucket
+favicon: null
+layout_spectrum: 0.9577475746627897
+typography_spectrum: 0.6920289574190974
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4863938477355987
+  lightness: 0.9820789464283735
+  saturation: 0.5175887797959149
+  rhythmicContrast: 0.9789083900395781
+purpose: []
